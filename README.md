@@ -1,4 +1,4 @@
-# Hi, I'm Feruz! 👋
+# Hi, I'm Feruz Maxmudov! 👋
 
 Welcome to my GitHub profile. I am a passionate **Python Backend Developer** focused on building clean, scalable, and optimized web applications. 
 
