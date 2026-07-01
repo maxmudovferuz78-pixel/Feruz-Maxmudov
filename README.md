@@ -21,13 +21,13 @@ Welcome to my GitHub profile. I am a passionate **Python Backend Developer** foc
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Feruz_0111&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feruz_0111&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ## 📬 Connect with me:
-- **Telegram:** [https://t.me/Feruz_0111]
-- **LeetCode:** [https://leetcode.com/your_leetcode_username]
+- **Telegram:** https://t.me/Feruz_0111
+- **LeetCode:** https://leetcode.com/your_leetcode_username
   <img src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
