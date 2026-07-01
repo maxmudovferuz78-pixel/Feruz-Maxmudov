@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I am a passionate **Python Backend Developer** foc
 - 🛠️ Currently studying **Information Security** at Tashkent University of Information Technologies (TUIT).
 - 💻 Specialized in Backend Development, working with database optimization and robust API systems.
 - 🎯 Passionate about clean architecture (Modular Monoliths), high-load workflows, and integrating AI models into backend services.
-- 🧠 In my free time, I practice algorithms on **LeetCode** and experiment with game development (Pygame/Ursina).
+- 🧠 In my free time, I experiment with game development (Pygame/Ursina) and build cool backend projects.
 
 ## 🛠️ Tech Stack:
 
@@ -21,10 +21,9 @@ Welcome to my GitHub profile. I am a passionate **Python Backend Developer** foc
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxmudovferuz78-pixel&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmudovferuz78-pixel&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ## 📬 Connect with me:
-- **Telegram:** [https://t.me/your_telegram_username]
-- **LeetCode:** [https://leetcode.com/your_leetcode_username]
+- **Telegram:** https://t.me/Feruz_0111
