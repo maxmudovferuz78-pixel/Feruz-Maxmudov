@@ -18,10 +18,12 @@ Welcome to my GitHub profile. I am a passionate **Python Backend Developer** foc
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **IDE** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) |
 
-## 📊 GitHub Stats:
+## 💻 My Profile Card:
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxmudovferuz78-pixel&theme=gotham" alt="GitHub Streak Stats" width="100%" />
+<p align="center">
+  <a href="https://github.com/maxmudovferuz78-pixel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxmudovferuz78-pixel&repo=maxmudovferuz78-pixel&theme=gotham" alt="Profile Card" width="400" />
+  </a>
 </p>
 
 ## 📬 Connect with me:
